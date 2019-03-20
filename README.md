@@ -1,0 +1,14 @@
+#个人简历
+1.基本情况：
+姓名：华
+年龄：21
+性别：男
+2.照片：
+![me.jpg](https://upload-images.jianshu.io/upload_images/14956581-86fcc49b3b9a8eed.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+3.教育经历：
+高中：建陵中学
+大学：南工院
+4.性格：
+活泼开朗，天天向上
+5.爱好：
+看电影，下象棋，打乒乓球。
